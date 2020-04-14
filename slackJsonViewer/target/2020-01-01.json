@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1573626450.000200",
+        "user": "UN905SMJP",
+        "text": "test1"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1573626450.000200",
+        "user": "UN905SMJP",
+        "text": "test2"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1573626450.000200",
+        "user": "UN905SMJP",
+        "text": "test3"
+    }
+]
